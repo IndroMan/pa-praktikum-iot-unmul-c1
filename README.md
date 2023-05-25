@@ -23,7 +23,7 @@ Pada proyek ini, kami mengangkat tema “Monitoring dan Kontroling Pengukur Jara
 <li>Buzzer
 <li>Kabel Jumper
 </ul>
-# Ilustrasi Alur Sistem
+<h1> Ilustrasi Alur Sistem
 <img src="image.png" />
 
 # Board Schematic
