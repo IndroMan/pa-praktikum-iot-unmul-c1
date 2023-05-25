@@ -16,17 +16,19 @@ Pada proyek ini, kami mengangkat tema “Monitoring dan Kontroling Pengukur Jara
 <li>Sensor Ultrasonik
 <li>Kabel Jumper
 </ul>
-## Subscriber
+<h2> Subscriber </h2>
 <ul>
 <li>NodeMCU
 <li>BreadBoard
 <li>Buzzer
 <li>Kabel Jumper
 </ul>
+# Ilustrasi Alur Sistem
+<img src="image.png" />
 
 # Board Schematic
 ## Publisher
-<img src="pub.jpeg" />
+<img src="pub.jpeg"/>
 
 ## Subscriber
 <img src="sub.jpeg" />
